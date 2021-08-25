@@ -24,4 +24,4 @@ So, why do stock prices change? The best answer is that nobody really knows for 
 
 
 
-For more Information - [**CLICK HERE**](https://github.com/Vatshayan/Final-Year-Machine-Learning-Stock-Price-Prediction-Project)
+### CSE Projects: [LINK](https://www.cse-projects.com)
