@@ -1,9 +1,13 @@
 # Stock-Price-Prediction-Project
+
 Final year College Project with Project Report, PPT, Synopsis and Code
 
 
 ## Project PPT [**LINK**](https://github.com/Vatshayan/Final-Year-Machine-Learning-Stock-Price-Prediction-Project/blob/main/Stock_price%20_prediction.pptx)
 
+## Project Code [**LINK**](https://github.com/Vatshayan/Final-Year-Machine-Learning-Stock-Price-Prediction-Project/blob/main/Stocks_code.ipynb)
+ 
+Project Code is in Python Programming 
 
 **Stock Price Prediction**
 
@@ -13,15 +17,11 @@ Stock prices change everyday by market forces. By this we mean that share prices
 Understanding supply and demand is easy. 
 So, why do stock prices change? The best answer is that nobody really knows for sure. Some believe that it isn't possible to predict how stocks will change in price while others think that by drawing charts and looking at past price movements, you can determine when to buy and sell. The only thing we do know as a certainty is that stocks are volatile and can change in price extremely rapidly.
 
- ### Project Code [**LINK**](https://github.com/Vatshayan/Final-Year-Machine-Learning-Stock-Price-Prediction-Project/blob/main/Stocks_code.ipynb)
  
- Project Code is in Python Programming 
  
 ### HOW TO RUN THE PROJECT-
 ⚡ Email me at **vatshayan007@gmail.com** to get a detailed Guide report to run the project with source Code.
 
 ### Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
-
-
 
 ### CSE Projects: [LINK](https://www.cse-projects.com)
