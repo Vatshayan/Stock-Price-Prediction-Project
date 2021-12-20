@@ -9,7 +9,7 @@ Final year College Project with Project Report, PPT, Synopsis and Code
  
 Project Code is in Python Programming 
 
-**Stock Price Prediction**
+### Stock Price Prediction
 
 Stock (also known as equity) is a security that represents the ownership of a fraction of a corporation. This entitles the owner of the stock to a proportion of the corporation's assets and profits equal to how much stock they own. Units of stock are called "shares." 
 A stock is a general term used to describe the ownership certificates of any company.
