@@ -1,6 +1,6 @@
 # Stock-Price-Prediction-Project
 
-Final year College Project with Project Report, PPT, Synopsis and Code
+Final year College Project with Project Report, Dataset, PPT, Synopsis and Code
 
 
 ## Project PPT [**LINK**](https://github.com/Vatshayan/Final-Year-Machine-Learning-Stock-Price-Prediction-Project/blob/main/Stock_price%20_prediction.pptx)
