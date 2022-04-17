@@ -3,10 +3,12 @@
 Final year College Project with Project Report, Dataset, PPT, Synopsis and Code
 
 
-## Project PPT [**LINK**](https://github.com/Vatshayan/Final-Year-Machine-Learning-Stock-Price-Prediction-Project/blob/main/Stock_price%20_prediction.pptx)
+### Project PPT [**LINK**](https://github.com/Vatshayan/Final-Year-Machine-Learning-Stock-Price-Prediction-Project/blob/main/Stock_price%20_prediction.pptx)
 
-## Project Code [**LINK**](https://github.com/Vatshayan/Final-Year-Machine-Learning-Stock-Price-Prediction-Project/blob/main/Stocks_code.ipynb)
+### Project Code [**LINK**](https://github.com/Vatshayan/Final-Year-Machine-Learning-Stock-Price-Prediction-Project/blob/main/Stocks_code.ipynb)
  
+### Youtube Small Brief : https://youtu.be/44u5oU9MQGg
+
 Project Code is in Python Programming 
 
 ### Stock Price Prediction
