@@ -26,11 +26,16 @@ So, why do stock prices change? The best answer is that nobody really knows for 
 
 ### Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
 
+### Need Code, Documents & Explanation video ? 
 
-#### 📫 HOW TO REACH ME:
+## How to Reach me :
 
-💬 WhatsApp: **[LINK](https://wa.me/message/CHWN2AHCPMAZK1) : +91 9310631437 (Helping 24*7)**
+### Mail : vatshayan007@gmail.com 
 
-💬 Gmail: **vatshayan007@gmail.com**
+### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
 
-⚡ CSE Projects: [LINK](https://www.cse-projects.com)
+### Website : https://www.finalproject.in/
+
+### 1000 Computer Science Projects : https://www.computer-science-project.in/
+
+Mail/Message me for Projects Help 🙏🏻
